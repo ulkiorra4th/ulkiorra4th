@@ -72,11 +72,3 @@
 </div>
 
 ###
-
-<h2 align="left">Activity</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ulkiorra4th&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
-</div>
