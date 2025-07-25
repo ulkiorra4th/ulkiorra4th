@@ -13,7 +13,7 @@
 ###
 
 * ✨ Creating bugs since 2021
-* 🔭 I’m currently working on [ToochiChat](https://github.com/ulkiorra4th/ToochiChat)
+* 🔭 I’m currently working on Mirra Hub
 * 📚 I'm currently studying at [ITMO University](https://itmo.ru)
 
 ###
