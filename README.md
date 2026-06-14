@@ -1,19 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ulkiorra4th&label=Profile%20views&color=0e75b6&style=flat" alt="ulkiorra4th" /> </p>
 
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is Ramin and I'm a backend developer.</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
 
 * ✨ Creating bugs since 2021
-* 🔭 I’m currently working on Mirra Hub
+* 🔭 I’m currently working on Mirra Cloud
 * 📚 I'm currently studying at [ITMO University](https://itmo.ru)
 
 ###
