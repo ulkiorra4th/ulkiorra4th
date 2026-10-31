@@ -2,7 +2,7 @@
 
 # Ramin Mukhtarov
 
-**C#/.NET backend developer | GoDreams | ITMO InfoSec’27**
+**C#/.NET backend developer | Dreams | ITMO InfoSec’27**
 
 </div>
 
