@@ -1,23 +1,33 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ulkiorra4th&label=Profile%20views&color=0e75b6&style=flat" alt="ulkiorra4th" /> </p>
+<div align="center">
 
-<h2 align="left">About me</h2>
+# Ramin Mukhtarov
 
-###
+**C#/.NET backend developer | GoDreams | ITMO InfoSec’27**
 
-* ✨ Creating bugs since 2021
-* 🔭 I’m currently working on Mirra Cloud
-* 📚 I'm currently studying at [ITMO University](https://itmo.ru)
-
-###
-
-<h2 align="left">How to reach me</h2>
-
-###
-
-<div align="left">
-  <a href="https://t.me/r_muhtaroff" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
 </div>
 
-###
+
+## 👋 About me
+
+- ✨ Writing code since 2021, and sometimes it even works
+- 🔭 Currently working at **[GoDreams](https://godreams.io/)**
+- 🎓 Currently studying at **[ITMO University](https://itmo.ru)**
+- ⚙️ Day to day: **C# / .NET**, microservices, APIs, databases, infrastructure, gamedev
+- 🤖 Diving deep into AI and agentic development
+
+## 🧰 Tech stack
+
+<div>
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,mongodb,rabbitmq,docker,git,linux,github,githubactions,unity&theme=dark" alt="stack" />
+
+</div>
+
+## 📫 Contact
+
+<div>
+
+<a href="https://t.me/r_muhtaroff"><img src="https://img.shields.io/badge/Telegram-@r__muhtaroff-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+
+</div>
+
