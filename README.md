@@ -10,7 +10,7 @@
 ## 👋 About me
 
 - ✨ Writing code since 2021, and sometimes it even works
-- 🔭 Currently working at **[GoDreams](https://godreams.io/)**
+- 🔭 Currently working at **[Dreams](https://godreams.io/)**
 - 🎓 Currently studying at **[ITMO University](https://itmo.ru)**
 - ⚙️ Day to day: **C# / .NET**, microservices, APIs, databases, infrastructure, gamedev
 - 🤖 Diving deep into AI and agentic development
